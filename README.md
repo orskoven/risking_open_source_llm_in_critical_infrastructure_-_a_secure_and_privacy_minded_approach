@@ -19,6 +19,10 @@ AI and is intergration into the organisation is fairly 'new'. Mature IT companie
 
 Assesing the risk of any system, including LLM's requires a systematic and widely recognised and standardised approach. The risk assesment will hence be conducted by applying a ISO35000 compliant risk assement methodology, which can be translated into actionable ISO27001 compliant controls.
 
+To make MLSDLC, risk assement and controls as real as possible, the study will include a Proof-of-concept (PoC). 
+
+The proof of concept will implement an open sourced model into an agentic AI application for handling information tasks. 
+
 
 
 
