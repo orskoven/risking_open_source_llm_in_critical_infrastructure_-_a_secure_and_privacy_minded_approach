@@ -15,7 +15,11 @@ This paper seeks to asses and demonstrate how companies can securely implement o
 
 # Methodology
 
+AI and is intergration into the organisation is fairly 'new'. Mature IT companies should already be enforcing best practices of Secure Development Life Cycle (SDLC) in DevSecOps contexts. This paper will demonstrate the add-on of Machine Learning to SDLC (MLSDLC).
+
 Assesing the risk of any system, including LLM's requires a systematic and widely recognised and standardised approach. The risk assesment will hence be conducted by applying a ISO35000 compliant risk assement methodology, which can be translated into actionable ISO27001 compliant controls.
+
+
 
 
 
