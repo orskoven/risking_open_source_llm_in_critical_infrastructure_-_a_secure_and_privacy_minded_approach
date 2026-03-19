@@ -13,7 +13,9 @@ Nvidia is pushing back with their open sourced model, [Nemotron](https://www.nvi
 
 This paper seeks to asses and demonstrate how companies can securely implement open sourced models to lower costs and increase customization to better harness the potential of faster inference.
 
+# Methodology
 
+Assesing the risk of any system, including LLM's requires a systematic and widely recognised and standardised approach. The risk assesment will hence be conducted by applying a ISO35000 compliant risk assement methodology, which can be translated into actionable ISO27001 compliant controls.
 
 
 
