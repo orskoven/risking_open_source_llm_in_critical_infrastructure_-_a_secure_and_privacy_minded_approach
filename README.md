@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 ##  Risking open sourced llm's -  in an ISO27001 & ISO27701 compliant way
 
 
@@ -23,10 +15,22 @@ Nvidia is pushing back with their open sourced model, [Nemotron](https://www.nvi
 
 [Rewired](https://www.mckinsey.com/featured-insights/mckinsey-on-books/rewired) the Wall Street Journal best seller, is becoming the defacto guide to AI adoption in large corporations seeking to adpopt AI in to every corner of the business.
 
+AI demands data and data requires security and privacy. Rewiring the busniess to be AI first commands a throughal understanding of the risks associated with gathering, storing and applying data to solve business needs, in a competitive, regulatory and global context.
 
-The AI race is constantly shifting lane. As an organisation seeking to harness the potentiel, while staying on the right side of the current legsilation, it needs to establish a mature ISMS to make the calculated decisions and innovate at the same time. 
 
-This paper seeks to asses and demonstrate how companies can securely implement open sourced models to lower costs and increase customization to better harness the potential of faster inference.
+The race to be an AI first company, is becoming an existential question for every large operator in any sector. Organisations seeking to harness the potential of AI, while staying on the right side of the current legsilation, must establish a mature ISMS to built in security and privacy, while protection reputation and customer trust. 
+
+If the company succeeds in meeting the ISO27001 requirements, it can to some extend also make cheaper and more customizable bets on AI solutions in the open source sphere and constantly adopt tailored solutions, like Crowdstrike, CapitalOne and ServiceNow.
+
+## What is an LLM? 
+
+Current LLM (Large Language Model) [date to 2017](https://en.wikipedia.org/wiki/Large_language_model)  
+
+## Open Source LLM's - a brief introduction
+
+Open Sourced LLM's have been  
+
+This paper seeks to asses and demonstrate how companies securely implement open sourced models to lower costs and increase customization to better harness the potential of faster inference.
 
 ### Methodology
 
@@ -34,9 +38,8 @@ AI and is intergration into the organisation is fairly 'new'. Mature IT companie
 
 Assesing the risk of any system, including LLM's requires a systematic and widely recognised and standardised approach. The risk assesment will hence be conducted by applying a ISO35000 compliant risk assement methodology, which can be translated into actionable ISO27001 compliant controls.
 
-To make MLSDLC, risk assement and controls as real as possible, the study will include a Proof-of-concept (PoC). 
+To make MLSDLC, risk assement and controls as real as possible, the study will include a Proof-of-concept (PoC) of suggested Automated code policy and security compliance script in bash. 
 
-The proof of concept will implement an open sourced model into an agentic AI application for handling information tasks. 
 
 
 
