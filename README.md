@@ -41,7 +41,22 @@ Assesing the risk of any system, including LLM's requires a systematic and widel
 To make MLSDLC, risk assement and controls as real as possible, the study will include a Proof-of-concept (PoC) of suggested Automated code policy and security compliance script in bash. 
 
 
+## Lab 
+
+We treat the LLM as a software application. 
+
+## Static Code Analysis 
+
+Tools: Semgrep, 
 
 
+## Dynamic Code Analysis
+Tools: BurpSuite, ZAP, 
+
+### 1. run deepseek via ollama
+
+```bash
+ollama run deepseek-r1:8b
+```
 
 
