@@ -80,7 +80,7 @@ ollama run deepseek-r1:8b
 garak --target_type ollama \
       --target_name deepseek-r1:8b \
       --probes dan,promptinject
-
+```
 <img width="886" height="75" alt="Screenshot 2026-03-23 at 14 22 23" src="https://github.com/user-attachments/assets/f5236984-b18b-413e-8bc6-f3598821fcee" />
 
 ´´´python
