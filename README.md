@@ -70,7 +70,7 @@ ollama run deepseek-r1:8b
 <img width="1381" height="107" alt="Screenshot 2026-03-23 at 14 08 04" src="https://github.com/user-attachments/assets/c0a2b353-ba2b-4f3d-99d1-199df94c4b0b" />
 
 3. Start DeepSeek-R1:8b with Ollama server
-4. <img width="688" height="28" alt="Screenshot 2026-03-23 at 14 15 00" src="https://github.com/user-attachments/assets/7e783e75-1c8a-4b52-b668-1dfc5697aa42" />
+<img width="688" height="28" alt="Screenshot 2026-03-23 at 14 15 00" src="https://github.com/user-attachments/assets/7e783e75-1c8a-4b52-b668-1dfc5697aa42" />
 
 
 5. Launch Garak targetting ollama and deepseek-r1:8b
