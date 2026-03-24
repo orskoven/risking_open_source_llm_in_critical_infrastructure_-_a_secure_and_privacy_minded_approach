@@ -9,9 +9,9 @@ LLM's (Large Language Models) have been easy accesible to the world via ChatBot'
 Skipping fast forward to January 2025, when the chinese hedge fund co-founder of High-Flyer, Liang Wenfeng, smashes the leading AI company Nvidia's [share price with 18%](https://www.cbsnews.com/news/what-is-deepseek-ai-china-stock-nvidia-nvda-asml/)[DeepSeek](https://en.wikipedia.org/wiki/DeepSeek) after launching their open sourced [MIT-Licensed](https://en.wikipedia.org/wiki/MIT_License) LLM DeepSeek-R1. Another turning point in the AI arms race.
 
 
-Today, the early days in spring 2026, the AI race is no longer about building the best models, but providing [fast inference and agentic AI](https://www.wsj.com/tech/ai/what-is-inference-explaining-the-massive-new-shift-in-ai-computing-ed65a2fe?mod=article_inline). 
+Today, the early days in spring 2026, the AI-arms race is no longer about building the best models, but providing [fast inference and agentic AI](https://www.wsj.com/tech/ai/what-is-inference-explaining-the-massive-new-shift-in-ai-computing-ed65a2fe?mod=article_inline). 
 
-Besides offering ligthing speed LLM's as Chatbots. Fast inference becomes expnontially more useful, when agents are evovled around the LLM's becoming Agentic AI, hence cutting the utility of the largest LLMs. Agentic AI will become more atonomu and reach the current short term north star of AI, [Superhuman Adaptable Intelligence](https://arxiv.org/abs/2602.23643). 
+Besides offering ligthing speed LLM's as Chatbots, fast inference becomes expontially more useful, when agents are evovled around the LLM's becoming Agentic AI, hence cutting the utility of the largest LLMs. Agentic AI will become more atonomu and reach the current short term north star of AI, [Superhuman Adaptable Intelligence](https://arxiv.org/abs/2602.23643). 
 
 Since the peak of AI-model training is to be surpassed, Nvidia, the most valuable company in the S&P500, has been adjusting it's cuourse to develope open source model, a market dominated primarly by China.
 
