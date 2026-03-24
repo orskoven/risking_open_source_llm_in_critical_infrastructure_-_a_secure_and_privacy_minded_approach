@@ -11,12 +11,15 @@ Skipping fast forward to January 2025, when the chinese hedge fund co-founder of
 
 Today, the early days in spring 2026, the AI race is no longer about building the best models, but providing [fast inference and agentic AI](https://www.wsj.com/tech/ai/what-is-inference-explaining-the-massive-new-shift-in-ai-computing-ed65a2fe?mod=article_inline). 
 
+Besides offering ligthing speed LLM's as Chatbots. Fast inference becomes expnontially more useful, when agents are evovled around the LLM's becoming Agentic AI, hence cutting the utility of the largest LLMs. Agentic AI will become more atonomu and reach the current short term north star of AI, [Superhuman Adaptable Intelligence](https://arxiv.org/abs/2602.23643). 
+
+Since the peak of AI-model training is to be surpassed, Nvidia, the most valuable company in the S&P500, has been adjusting it's cuourse to develope open source model, a market dominated primarly by China.
+
 Nvidia is pushing back with their open sourced model, [Nemotron](https://www.nvidia.com/en-eu/ai-data-science/foundation-models/nemotron/?ncid=pa-srch-goog-377-prsp-rsa-en-gb-1-l1-product-page&_bt=798523916322&_bk=nemotron&_bm=p&_bn=g&_bg=190645523741&gad_source=1&gad_campaignid=23601031662&gbraid=0AAAAAD4XAoEdZvy6cXr3Lfqv6UAN00Lm0&gclid=Cj0KCQjwve7NBhC-ARIsALZy9HWyPYaB2PeS3myJ32TkkKpGgHjeX6Le_yAfQTPZQBUvEUaxx078G30aApOVEALw_wcB) because companies, Crowdstrike (Secuirty), Capital One, ServiceNow (Software-IT) are actually willing to give into the [risk of applying open sourced model](https://www.wsj.com/cio-journal/companies-say-the-risks-of-open-artificial-intelligence-models-are-worth-it-0d3ee664?mod=djemCIO).
 
 [Rewired](https://www.mckinsey.com/featured-insights/mckinsey-on-books/rewired) the Wall Street Journal best seller, is becoming the defacto guide to AI adoption in large corporations seeking to adpopt AI in to every corner of the business.
 
 AI demands data and data requires security and privacy. Rewiring the busniess to be AI first commands a throughal understanding of the risks associated with gathering, storing and applying data to solve business needs, in a competitive, regulatory and global context.
-
 
 The race to be an AI first company, is becoming an existential question for every large operator in any sector. Organisations seeking to harness the potential of AI, while staying on the right side of the current legsilation, must establish a mature ISMS to built in security and privacy, while protection reputation and customer trust. 
 
